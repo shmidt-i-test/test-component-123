@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: some-test-component-123
+  description: Description of this awesome test component
+spec:
+  type: website
+  lifecycle: experimental
+  owner: me
